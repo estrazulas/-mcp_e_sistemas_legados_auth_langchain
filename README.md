@@ -2,7 +2,7 @@
 
 > **⚠️ Projeto com fins educacionais.** Desenvolvido durante as aulas da pós-graduação [Engenharia de Software com IA Aplicada (UNIP)](https://github.com/unipds-engenharia-de-ia-aplicada/engenharia-de-software-com-ia-aplicada). Destinado exclusivamente a testes e aprendizado — **não utilize em produção**.
 
-Este projeto é uma evolução do repositório [mcp_e_sistemas_legados](https://github.com/estrazulas/mcp_e_sistemas_legados_auth_npm), substituindo o consumo direto do MCP pelo VS Code Copilot por uma camada de orquestração com **LangChain + LangGraph**, expondo o agente via **LangSmith Studio** para interação por chat.
+Este projeto é uma evolução do repositório [mcp_e_sistemas_legados_auth_npm](https://github.com/estrazulas/mcp_e_sistemas_legados_auth_npm), substituindo o consumo direto do MCP pelo VS Code Copilot por uma camada de orquestração com **LangChain + LangGraph**, expondo o agente via **LangSmith Studio** para interação por chat.
 
 ---
 
